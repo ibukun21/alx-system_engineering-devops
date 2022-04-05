@@ -1,1 +1,1 @@
-my 17-hidethisword readme
+my 18-letteronly readme
