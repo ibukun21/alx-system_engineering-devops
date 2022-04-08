@@ -1,1 +1,1 @@
-6-create_local_variable readme
+7-create_global_variable readme
